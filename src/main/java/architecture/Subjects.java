@@ -1,0 +1,5 @@
+package architecture;
+
+public enum Subjects {
+    LINEARALGEBRA, PRACTICALONPC, ENGLISH, PSYCOLOGY, PHILOSOFY, MATHEMATICALANALYSIS;
+}
